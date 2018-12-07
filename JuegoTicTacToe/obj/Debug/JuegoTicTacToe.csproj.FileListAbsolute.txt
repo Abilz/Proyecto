@@ -1,0 +1,20 @@
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\bin\Debug\JuegoTicTacToe.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\bin\Debug\JuegoTicTacToe.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\bin\Debug\JuegoTicTacToe.pdb
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.pdb
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\bin\Debug\JuegoTicTacToe.exe.config
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\bin\Debug\JuegoTicTacToe.exe
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\bin\Debug\JuegoTicTacToe.pdb
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.csprojAssemblyReference.cache
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.Form1.resources
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.Properties.Resources.resources
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.csproj.GenerateResource.cache
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.exe
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.pdb
+C:\Users\Aby\Desktop\23.- JuegoTicTacToe\JuegoTicTacToe\obj\Debug\JuegoTicTacToe.Form2.resources
